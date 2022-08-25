@@ -1,0 +1,26 @@
+h1, h2, h5 {
+    margin-top: 1rem;
+    color: var(--green-primary);
+    font-family: Poppins;
+}
+
+p {
+    font-family: Roboto;
+}
+
+#about-us {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#about-us h1 {
+    text-align: center;
+    margin-top: 1rem;
+
+}
+
+.staff {
+    display:flex ;
+    justify-content: center;
+}

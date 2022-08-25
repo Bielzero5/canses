@@ -1,0 +1,86 @@
+
+.img-principal {
+    width: 100vw;
+    height: auto;
+
+}
+
+.card-img-overlay {
+    width: 50vw;
+    height: 25vw;
+    display: flex;
+    flex-direction: column;  
+    text-align: center;
+    top: 75%;
+    left: 25%;
+
+    background: white;
+    font-family: Poppins;
+}
+
+.card-img-overlay h5 {
+    font-size: 2rem;
+}
+
+.card-img-overlay p {
+    font-size: 1rem;
+}
+
+.stick-box {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.stick-color {
+    width: 50%;
+    height: 2px;
+    background: var(--green-primary);
+}
+
+.aboutUs-card {
+    margin-top: 6rem ;
+    width: 100vw;
+    height: 50vh;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: Roboto;
+}
+
+.card-canses {
+    width: 80vw;
+}
+
+.group-cards {
+    display: flex;
+    justify-content: center;
+
+}
+
+.ours-clients h2 {
+    margin-bottom: 2rem;
+}
+
+.card-client {
+    margin-right: 2.5rem;
+    width: 18rem;
+}
+
+.second-row {
+    margin-top: 2rem;
+}
+
+.ours-clients {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.ours-clients img {
+    height: 6.25rem;
+}
+
+

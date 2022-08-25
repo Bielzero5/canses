@@ -1,0 +1,42 @@
+h1, h2, h3 {
+    margin-top: 1rem;
+    color: var(--green-primary);
+    font-family: Poppins;
+
+    margin-top: 2rem;
+}
+
+p {
+    font-family: Roboto;
+}
+
+.info, .col-12, .table, .contato {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+tbody {
+    border: 1px solid #e0e1e3;
+}
+.info-text {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 1rem;
+}
+
+.fac {
+    width: 80vw;
+    margin:5rem 0 0 10rem;
+}
+
+.fac h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    font-family: Poppins;
+    border-bottom: 2px solid var(--green-primary);
+    color: var(--green-primary);
+}
